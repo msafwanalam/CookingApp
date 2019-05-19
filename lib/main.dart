@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.deepOrange,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Cooking App Home Page'),
     );
   }
 }
